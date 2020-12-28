@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  wezvawebapp:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2020-12-28T13:15:29.881459791Z"
+    description: Helm chart for Wezva Web App Sample project
+    digest: 0008bde1a65ea8fe3f654d6dd22c736343543d5bc1ec9533524330ccd3a76ab3
+    name: wezvawebapp
+    type: application
+    urls:
+    - https://scmlearningcentre.github.io/helm/wezvawebapp-1.0.tgz
+    version: "1.0"
+generated: "2020-12-28T13:15:29.880781144Z"
